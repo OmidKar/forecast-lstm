@@ -1,2 +1,2 @@
 # forecast-lstm-keras
-A self-sufficient script to do times series forecasting with co-variates using LSTM-NN on Keras/Tensorflow
+A self-sufficient collection of scripts to perform times series forecasting with co-variates using LSTM-NN on multiple backends.
